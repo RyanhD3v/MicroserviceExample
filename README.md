@@ -1,12 +1,20 @@
 # MicroserviceExample
 Ejemplo CRUD service con datos en duro 
 
-TEST ENDPOINTS POSTMAN
+EXAMPLE TEST ENDPOINTS POSTMAN
 
-GET
+#GET
 
-POST
+http://localhost:9090/v1/clientes
 
-PUT
+#POST
 
-DELETE
+http://localhost:9090/v1/clientes
+
+#PUT
+
+http://localhost:9090/v1/clientes/1
+
+#DELETE
+
+http://localhost:9090/v1/clientes/1
